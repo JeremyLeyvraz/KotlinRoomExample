@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "AndroidLibraryExample"
+rootProject.name = "KotlinRoomExample"
 include ':app'
 include ':libraryExample'
